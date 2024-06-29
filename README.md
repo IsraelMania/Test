@@ -12,7 +12,7 @@ Como Utilizar
 Para começar a utilizar este projeto, siga os passos abaixo:
 
 Pré-requisitos
-Node.js e npm instalados na sua máquina.
+Node.js e yarn instalados na sua máquina.
 
 Instalação
 Clone este repositório:
