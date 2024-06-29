@@ -1,0 +1,47 @@
+@import "../styles/style.scss";
+
+.family {
+  font-family: $font-primary;
+}
+
+.color {
+  &black {
+    color: $color-black;
+  }
+
+  &white {
+    color: $color-white;
+  }
+
+  &primary {
+    color: $color-primary;
+  }
+
+  &gray {
+    color: $color-gray;
+  }
+
+  &gray2 {
+    color: $color-gray2;
+  }
+}
+
+._400 {
+  font-weight: 400;
+}
+
+._700 {
+  font-weight: 700;
+}
+
+._12 {
+  font-size: 12px;
+}
+
+._14 {
+  font-size: 14px;
+}
+
+._16 {
+  font-size: 16px;
+}
